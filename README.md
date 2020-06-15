@@ -1,3 +1,3 @@
-# learning2
-Project learning2
-First addition
+# maven-project
+
+Simple Maven Project
